@@ -7,9 +7,9 @@
 
 This was:
 
-  a useful calculation for modeling physical processes
+  - a useful calculation for modeling physical processes
   
-  a test of whether I had solved this (possibly-impossible) problem analytically
+  - a test of whether I had solved this (likely impossible) problem analytically (I did not)
   
-  an exercise in coding a recursive function
+  - an exercise in learning to code a recursive function
   
